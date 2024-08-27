@@ -1,1 +1,1 @@
-# SQL_Server_Training
+# sql-server-training
