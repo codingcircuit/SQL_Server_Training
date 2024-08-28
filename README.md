@@ -20,6 +20,7 @@ Welcome to the SQL Server Training repository! This collection of Markdown files
 13. [Common Table Expressions (CTE)](./13.CTE.md)
 14. [Temporary Tables](./14.temporary-tables.md)
 15. [INFORMATION_SCHEMA](./15.information-schema.md)
+16. [Cardinality](./16.cardinality.md)
 
 ## Description
 
