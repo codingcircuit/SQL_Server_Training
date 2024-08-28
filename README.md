@@ -4,6 +4,7 @@ Welcome to the SQL Server Training repository! This collection of Markdown files
 
 ## Table of Contents
 
+0. [SQL Server Introduction](./00.sql-server-introduction.md)
 1. [Data Types and Constraints](./01.data-types-and-constraints.md)
 2. [Data Definition Language (DDL)](./02.DDL.md)
 3. [Data Manipulation Language (DML)](./03.DML.md)
